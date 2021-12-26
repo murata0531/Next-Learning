@@ -1,6 +1,6 @@
-# Next-Boilerplate
+# Next-Learning
 
-nextjsのボイラープレート
+nextjs勉強リポ
 
 # 環境
 
